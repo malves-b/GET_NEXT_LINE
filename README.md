@@ -1,5 +1,7 @@
 # GET_NEXT_LINE
 
+![](./gnl_g.gif)
+
 O projeto **get_next_line** é uma implementação em C de uma função que lê uma linha de um arquivo por vez, o que é útil para processar grandes volumes de dados sem carregar o arquivo completo na memória. Esta função é uma ótima ferramenta para manipulação de dados em arquivos e é frequentemente utilizada em vários projetos de software.
 
 ## Descrição do Projeto
