@@ -66,7 +66,7 @@ int main() {
 
 O código acima vai imprimir as três primeiras linhas do arquivo fornecido.
 
-##Compilação
+## Compilação
 
 Para compilar o get_next_line junto com um arquivo de teste, utilize o seguinte comando:
 
@@ -74,7 +74,7 @@ Para compilar o get_next_line junto com um arquivo de teste, utilize o seguinte 
 gcc -Wall -Wextra -Werror get_next_line.c get_next_line_utils.c main.c -o get_next_line
 ```
 
-##Considerações Importantes
+## Considerações Importantes
 
 - **`BUFFER_SIZE`**: O tamanho do buffer de leitura pode impactar a eficiência do código. Se o BUFFER_SIZE for muito pequeno, podem ocorrer várias chamadas de read, diminuindo a performance. Um tamanho muito grande, por outro lado, pode desperdiçar memória. Ajuste conforme necessário para o seu caso de uso.
 
